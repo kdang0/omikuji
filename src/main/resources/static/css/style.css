@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+.display {
+	background-color: #4D96FB;
+	width: 20rem;
+	height: 30rem;
+	padding: 20px;
+	border-radius: 15px;
+}
+
+.display-text{
+	font-size:28px;
+	font-weight:bold;
+}
